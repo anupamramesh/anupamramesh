@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @anupamramesh
-- 👀 I’m interested in Data Science
-- 💞️ I’m looking to collaborate on ML & AI
+- 👀 I’m interested in Data Science field
+- 💞️ I’m looking to collaborate on ML & AI related projects
