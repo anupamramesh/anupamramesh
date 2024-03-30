@@ -4,17 +4,5 @@ Location: Bangalore, India
 Background
 I pursued a career in Data Science at ExcelR in Bangalore, India. I'm passionate about applying machine learning and artificial intelligence to solve real-world problems. I have worked on various projects, including a Twitter Sentiment Analysis App, a Book Recommendation App, and an ongoing side project called Garuda.
 
-Projects
-1. Twitter Sentiment Analysis App
-This was a collaborative group project that involved creating a Machine Learning application to determine the sentiment of any given tweet. The primary goal was to improve ad recommendations by understanding user sentiment. The project successfully provided insights into user sentiment, helping advertisers tailor their ad campaigns effectively.
-
-2. Book Recommendation App
-This was a collaborative group project aimed at recommending books to users based on various factors such as previous ratings, locations, and reading habits. The app leveraged machine learning algorithms to provide personalized book recommendations to enhance the reading experience for users.
-
-3. Garuda
-Garuda is an ongoing side project focusing on AI and machine learning to predict day-to-day stock market trades. The goal is to achieve a monthly average profit of 3%. This ambitious project involves developing advanced predictive models and utilizing real-time data for making informed trading decisions.
-
-Current Status
-I am actively seeking employment opportunities in the Machine Learning domain. If you are interested in collaborating or have any opportunities, please feel free to contact me at my email address: anupamramesh99@gmail.com.
-
-Thank you for visiting my GitHub profile, and I look forward to potential collaborations and opportunities in the field of Machine Learning.
+At Ai Variant, I led three successful AI projects. I developed machine learning models (Linear Regression, Decision Tree, Random Forest, KNN) for energy production optimization that increased efficiency by 15%. Additionally, I built a sentiment analysis tool (BERT, LMST, Naive Bayes, Keras) that improved brand perception on Twitter, resulting in a increase in positive mentions and brand recognition. Furthermore, I designed a book recommendation model (Popularity, Cosine Similarity, TF-IDF, Collaborative Filtering) that utilized collaborative filtering to boost customer engagement. Proficient in data visualization and analysis, I effectively communicated complex insights to stakeholders.
+Throughout these projects, I collaborated closely with cross-functional teams, including data scientists and engineers, to ensure comprehensive solutions. My proficiency in data visualization and analysis facilitated clear and effective communication of complex insights to stakeholders.
